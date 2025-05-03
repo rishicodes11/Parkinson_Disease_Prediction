@@ -11,7 +11,7 @@ Parkinson’s disease progression is studied using the AMP PD dataset focusing o
 #Data Integration
 - Merged multiple data sources: clinical, peptide, protein, and demographic data
 
-##Feature Engineering
+#Feature Engineering
 - Created logarithmic features: `log_NPX`, `log_PeptideAbundance`
 - Developed temporal features: `prev_updrs_3`, `delta_updrs_3`, `rolling_updrs_3`
 - Created interaction features
