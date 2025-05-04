@@ -6,6 +6,10 @@ This repository contains exploratory data analysis (EDA), preprocessing, and fea
 
 Parkinson’s disease progression is studied using the AMP PD dataset focusing on Unified Parkinson’s Disease Rating Scale (UPDRS) scores and associated proteomic biomarkers. This notebook explores the dataset in detail, handling missing values, transforming features, and visualizing relationships to support future machine learning models.
 
+# Dataset
+“Dataset and competition details were sourced from the Kaggle competition: AMP Parkinson’s Disease Progression Prediction.
+ https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction
+
 ## Key Steps Performed
 
 #Data Integration
